@@ -19,3 +19,21 @@ body{
 #container h1{
     font-size: 20px;
 }
+
+#cabecera {
+    background-color: rgb(33, 131, 251);
+    color:white;
+    font-size: 30px;
+    padding: 20px;
+    font-weight: bolder;
+    margin-bottom:  1rem ;
+    box-shadow: 1px 1px 0px 0px rgb(26, 106, 204);
+
+}
+
+#cabecera #letrero{
+    font-weight: bolder;
+    color:white;
+    font-size: 20px;
+    text-shadow: 1px black;
+}
