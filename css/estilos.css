@@ -29,7 +29,7 @@ body{
     font-weight: bolder;
     margin-bottom:  1rem ;
     box-shadow: 1px 1px 0px 0px rgb(26, 106, 204);
-
+    align-items: center;
 }
 
 #cabecera #letrero{
@@ -37,4 +37,10 @@ body{
     color:white;
     font-size: 20px;
     text-shadow: 1px black;
+}
+
+.imagen{
+    width: 30px ;
+    height:30px ;
+    
 }
