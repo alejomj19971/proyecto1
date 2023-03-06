@@ -42,12 +42,10 @@ body{
     text-shadow: 1px black;
 }
 
-<<<<<<< HEAD
 .imagen{
     width: 30px ;
     height:30px ;
-    
-=======
+}
 #footer{
     background-color: rgba(5, 3, 3, 0.855);
     color: white;
@@ -56,5 +54,4 @@ body{
     
 
 
->>>>>>> footer
 }
