@@ -14,6 +14,9 @@ body{
     text-align: left;
     border:1px solid #ddd;
     margin:0 auto;
+    justify-content: center;
+    align-items: center;
+
 
 }
 
@@ -39,8 +42,19 @@ body{
     text-shadow: 1px black;
 }
 
+<<<<<<< HEAD
 .imagen{
     width: 30px ;
     height:30px ;
     
+=======
+#footer{
+    background-color: rgba(5, 3, 3, 0.855);
+    color: white;
+    width: auto;
+    text-align: center;
+    
+
+
+>>>>>>> footer
 }
